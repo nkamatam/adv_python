@@ -1,6 +1,6 @@
 import logging
 
-logging.basicConfig(filename = 'pow.log', level=logging.INFO, format='%(levelname)s:%(asctime)s:%(message)s')
+logging.basicConfig(filename = 'sq.log', level=logging.INFO, format='%(levelname)s:%(asctime)s:%(message)s')
 
 def squ(num):
     return num * num

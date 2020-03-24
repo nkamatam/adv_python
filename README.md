@@ -1,4 +1,5 @@
-rm -rf *
+```
+rm -rf * 
 git clone https://github.com/nkamatam/adv_python.gitCloning 
 cd  adv_python/
 mkdir your_floder
@@ -11,5 +12,6 @@ git add .
 git status
 git commit -m "checking in the file"
 git push
-user-name :
-pwd :
+#user-name :
+#pwd :
+```

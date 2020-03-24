@@ -20,6 +20,8 @@ git push
 
 *KNK's Commands*
 ```
+
+PS1="\w\n$ "
 rm -rf * 
 git clone https://github.com/nkamatam/adv_python.git
 
@@ -43,6 +45,7 @@ git push
 *Thriveni's Commands*
 ```
 
+PS1="\w\n$ "
 rm -rf * 
 git clone https://github.com/nkamatam/adv_python.git
 

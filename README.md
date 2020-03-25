@@ -9,6 +9,7 @@ cd  adv_python/
 #create the file, File -> New -> Nootbook ->rename the notebook
 git config --global user.email "kishan.p.mashru@gmail.com"
 git config --global user.name "kishan-mashru" 
+git config credential.helper cache
 
 # To check_in your changes
 git add .
@@ -31,6 +32,7 @@ cd  adv_python/
 #create the file, File -> New -> Nootbook ->rename the notebook
 git config --global user.email "nkamatam@gmail.com"
 git config --global user.name "KNK" 
+git config credential.helper cache
 
 # To check_in your changes
 git add .
@@ -55,6 +57,7 @@ cd  adv_python/
 #create the file, File -> New -> Nootbook ->rename the notebook
 git config --global user.email "thriveniravi3@gmail.com"
 git config --global user.name "thriveni-git" 
+git config credential.helper cache
 
 # To check_in your changes
 git add .

@@ -1,0 +1,8 @@
+1) Display the total daily revenue from the given revenue.csv input file
+
+2) Display the male employees whose salary is grater than 50000 belongs to Finance team from the given input file employees.csv
+
+3) Print the rows from 11 to 20 from the given input file employees.csv
+
+4) Add 5% more bonus to Finance team in the given employee.csv
+ 
